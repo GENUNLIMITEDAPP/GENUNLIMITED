@@ -1,0 +1,15 @@
+# GENUNLIMITED
+Text-2-Image AI Generator for iOS and Android
+
+
+Welcome,
+here you can contact me directly regarding the application.
+
+If you want to see a new feature, or you detected a bug/error or just want to ask something.
+I will reply within a maximum of 24 hours.
+
+As well you can write me a email: appgenunlimited@gmail.com
+
+
+Best regards,
+Ivan Kresic

@@ -1,4 +1,4 @@
-# GENUNLIMITED
+# GENUNLIMITED v2.0.1
 Text-2-Image AI Generator for iOS and Android
 
 
